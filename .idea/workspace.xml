@@ -9,7 +9,11 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="668f07d2-abca-42c9-a559-25c222de0b63" name="Changes" comment="fixed" />
+    <list default="true" id="668f07d2-abca-42c9-a559-25c222de0b63" name="Changes" comment="fixed">
+      <change beforePath="$PROJECT_DIR$/.idea/deploymentTargetDropDown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/smartscaleapp/LoginActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/smartscaleapp/LoginActivity.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,7 +109,6 @@
     <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2TfoH2hb1FiQchVoH9vRXn4HgpV" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -119,12 +122,12 @@
     "cidr.known.project.marker": "true",
     "com.google.services.firebase.aqiPopupShown": "true",
     "last_directory_selection": "C:/Users/ViezPC1/StudioProjects/Smart-Scale-/app/src/main/res/drawable",
-    "last_opened_file_path": "C:/Users/ViezPC1/StudioProjects/Smart-Scale- - Copy (2)",
+    "last_opened_file_path": "C:/Users/ViezPC1/StudioProjects/Smart-Scale- - Copy",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.17",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "settings.editor.selected.configurable": "experimental"
   }
 }]]></component>
   <component name="PsdUISettings">
