@@ -1,0 +1,38 @@
+[
+  {
+    "name": "bmi_calc_nav",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  },
+  {
+    "name": "calorie_calc_nav",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  },
+  {
+    "name": "diet_plan_nav",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  },
+  {
+    "name": "home",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  },
+  {
+    "name": "nav_graph",
+    "navigationXmlIds": [
+      "bmi_calc_nav",
+      "calorie_calc_nav",
+      "diet_plan_nav",
+      "home",
+      "settings_nav"
+    ],
+    "deepLinks": []
+  },
+  {
+    "name": "settings_nav",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  }
+]

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="activity_levels">
+        <item>Sedentary</item>
+        <item>Lightly Active</item>
+        <item>Moderately Active</item>
+        <item>Very Active</item>
+        <item>Extra Active</item>
+    </string-array>
+    <color name="background_color">#FFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="button_background_color">#0088FF</color>
+    <color name="button_text_color">#FFFFFF</color>
+    <color name="ic_launcher_background">#000000</color>
+    <color name="text_color">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="fab_margin">16dp</dimen>
+    <string name="app_name">Smart Scale App</string>
+    <string name="bmi_result">BMI Result:</string>
+    <string name="button_text">BMI Calculator</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="cd_bmi">Content Description for BMI</string>
+    <string name="cd_calorie">Content Description for Calorie</string>
+    <string name="cd_diet">Content Description for Diet</string>
+    <string name="cd_home">Content Description for Home</string>
+    <string name="cd_settings">Content Description for Settings</string>
+    <string name="company_logo">company logo</string>
+    <string name="default_web_client_id" translatable="false">594636086110-jnafo352l0jm0fco7ib8liitnk1i8ise.apps.googleusercontent.com</string>
+    <string name="enter_height_cm">Enter Height (cm)</string>
+    <string name="enter_weight_and_height">Enter Weight and Height</string>
+    <string name="enter_weight_kg">Enter Weight (kg)</string>
+    <string name="female">Female</string>
+    <string name="gcm_defaultSenderId" translatable="false">594636086110</string>
+    <string name="google_api_key" translatable="false">AIzaSyBXlpF8i0SwR-SlENFPhvDAJrEEu_cM-Dg</string>
+    <string name="google_app_id" translatable="false">1:594636086110:android:250b278bd62b59f0bc0dcf</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBXlpF8i0SwR-SlENFPhvDAJrEEu_cM-Dg</string>
+    <string name="google_storage_bucket" translatable="false">smart-scale-app-736e3.appspot.com</string>
+    <string name="male">Male</string>
+    <string name="menu_name">Navigation Drawer</string>
+    <string name="nav_close">Close</string>
+    <string name="nav_open">Open</string>
+    <string name="night_switch">Night Switch</string>
+    <string name="project_id" translatable="false">smart-scale-app-736e3</string>
+    <string name="signOut">Sign Out</string>
+    <string name="smart_scale">Smart Scale</string>
+    <string name="title_activity_forgot_password">ForgotPasswordActivity</string>
+    <string name="title_bmi">BMI Calculator</string>
+    <string name="title_calorie">Calorie Calculator</string>
+    <string name="title_diet">Diet Plan</string>
+    <string name="title_fragment">Title Fragment</string>
+    <string name="title_home">Home</string>
+    <string name="title_settings">Settings</string>
+    <string name="warningProfile">Please finish setting up profile to use this feature</string>
+    <style name="Theme.SmartScaleApp" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="background">@color/background_color</item>
+        <item name="android:textColor">@color/text_color</item>
+        <item name="colorOutline">@color/text_color</item>
+    </style>
+</resources>

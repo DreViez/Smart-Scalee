@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-mergeDebugResources-55:\\layout\\activity_signup.xml",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-mergeDebugResources-55:\\layout\\activity_diet_gain.xml",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\activity_diet_gain.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-mergeDebugResources-55:\\layout\\fragment_calories_calculator1.xml",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\fragment_calories_calculator1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-mergeDebugResources-55:\\layout\\activity_gain_list.xml",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\activity_gain_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-mergeDebugResources-55:\\layout\\activity_display_name.xml",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\activity_display_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-mergeDebugResources-55:\\layout\\activity_fitness_plan.xml",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\activity_fitness_plan.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-mergeDebugResources-55:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-mergeDebugResources-55:\\layout\\activity_lose_list.xml",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\activity_lose_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-mergeDebugResources-55:\\layout\\fragment_warning.xml",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\fragment_warning.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-mergeDebugResources-55:\\layout\\fragment_bmi_calculator1.xml",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\fragment_bmi_calculator1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-mergeDebugResources-55:\\layout\\fragment_diet_plan_lose1.xml",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\fragment_diet_plan_lose1.xml"
+    },
+    {
+        "merged": "com.example.smartscaleapp-mergeDebugResources-55:/layout/activity_every_meal.xml",
+        "source": "com.example.smartscaleapp-main-58:/layout/activity_every_meal.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-mergeDebugResources-55:\\layout\\activity_diet_lose.xml",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\activity_diet_lose.xml"
+    },
+    {
+        "merged": "com.example.smartscaleapp-mergeDebugResources-55:/layout/activity_main.xml",
+        "source": "com.example.smartscaleapp-main-58:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-mergeDebugResources-55:\\layout\\fragment_diet_plan_gain1.xml",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\fragment_diet_plan_gain1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-mergeDebugResources-55:\\layout\\activity_start_up_diet_plan.xml",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\activity_start_up_diet_plan.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-mergeDebugResources-55:\\layout\\fragment_bmi_results1.xml",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\fragment_bmi_results1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-mergeDebugResources-55:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-mergeDebugResources-55:\\layout\\fragment_settings.xml",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "com.example.smartscaleapp-mergeDebugResources-55:/layout/fragment_diet_plan_lose1.xml",
+        "source": "com.example.smartscaleapp-main-58:/layout/fragment_diet_plan_lose1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-mergeDebugResources-55:\\layout\\fragment_calories_calc_result1.xml",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\fragment_calories_calc_result1.xml"
+    },
+    {
+        "merged": "com.example.smartscaleapp-mergeDebugResources-55:/layout/activity_diet_plan.xml",
+        "source": "com.example.smartscaleapp-main-58:/layout/activity_diet_plan.xml"
+    },
+    {
+        "merged": "com.example.smartscaleapp-mergeDebugResources-55:/layout/fragment_diet_plan_gain1.xml",
+        "source": "com.example.smartscaleapp-main-58:/layout/fragment_diet_plan_gain1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-mergeDebugResources-55:\\layout\\fragment_title.xml",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\fragment_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-mergeDebugResources-55:\\layout\\activity_forgot_password.xml",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-mergeDebugResources-55:\\layout\\fragment_start_up_diet_plan1.xml",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\fragment_start_up_diet_plan1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-mergeDebugResources-55:\\layout\\activity_diet_plan.xml",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\activity_diet_plan.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-mergeDebugResources-55:\\layout\\fragment_diet_plan1.xml",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\fragment_diet_plan1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-mergeDebugResources-55:\\layout\\activity_signout.xml",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\activity_signout.xml"
+    }
+]

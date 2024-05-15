@@ -1,0 +1,278 @@
+[
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\navigation_home.xml.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\navigation\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\layout_fragment_diet_plan1.xml.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\fragment_diet_plan1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\layout_activity_forgot_password.xml.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\layout_fragment_diet_plan_gain1.xml.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\fragment_diet_plan_gain1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-pngs-52:\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\layout_fragment_diet_plan_lose1.xml.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\fragment_diet_plan_lose1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-pngs-52:\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\navigation_diet_plan_nav.xml.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\navigation\\diet_plan_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\layout_activity_diet_lose.xml.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\activity_diet_lose.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\layout_fragment_calories_calculator1.xml.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\fragment_calories_calculator1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\navigation_bmi_calc_nav.xml.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\navigation\\bmi_calc_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\layout_activity_signout.xml.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\activity_signout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\layout_fragment_bmi_calculator1.xml.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\fragment_bmi_calculator1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\navigation_settings_nav.xml.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\navigation\\settings_nav.xml"
+    },
+    {
+        "merged": "com.example.smartscaleapp-merged_res-56:/navigation_diet_plan_nav.xml.flat",
+        "source": "com.example.smartscaleapp-main-58:/navigation/diet_plan_nav.xml"
+    },
+    {
+        "merged": "com.example.smartscaleapp-merged_res-56:/layout_activity_main.xml.flat",
+        "source": "com.example.smartscaleapp-main-58:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-pngs-52:\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\layout_activity_gain_list.xml.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\activity_gain_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-pngs-52:\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-pngs-52:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-pngs-52:\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-pngs-52:\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\layout_activity_lose_list.xml.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\activity_lose_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\drawable_logo_removebg.png.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\drawable\\logo_removebg.png"
+    },
+    {
+        "merged": "com.example.smartscaleapp-merged_res-56:/layout_activity_diet_plan.xml.flat",
+        "source": "com.example.smartscaleapp-main-58:/layout/activity_diet_plan.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-pngs-52:\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\layout_fragment_warning.xml.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\fragment_warning.xml"
+    },
+    {
+        "merged": "com.example.smartscaleapp-merged_res-56:/layout_fragment_diet_plan_gain1.xml.flat",
+        "source": "com.example.smartscaleapp-main-58:/layout/fragment_diet_plan_gain1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\layout_fragment_start_up_diet_plan1.xml.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\fragment_start_up_diet_plan1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.smartscaleapp-merged_res-56:/layout_activity_every_meal.xml.flat",
+        "source": "com.example.smartscaleapp-main-58:/layout/activity_every_meal.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\layout_fragment_calories_calc_result1.xml.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\fragment_calories_calc_result1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\drawable_bmi_progress_drawable.xml.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\drawable\\bmi_progress_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\layout_activity_fitness_plan.xml.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\activity_fitness_plan.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\drawable_googlelogo.png.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\drawable\\googlelogo.png"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.smartscaleapp-merged_res-56:/layout_fragment_diet_plan_lose1.xml.flat",
+        "source": "com.example.smartscaleapp-main-58:/layout/fragment_diet_plan_lose1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\xml_preferences.xml.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\layout_activity_diet_plan.xml.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\activity_diet_plan.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\layout_activity_diet_gain.xml.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\activity_diet_gain.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\layout_fragment_bmi_results1.xml.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\fragment_bmi_results1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\menu_menu_bottom_nav.xml.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\menu\\menu_bottom_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\layout_activity_start_up_diet_plan.xml.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\activity_start_up_diet_plan.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\layout_activity_display_name.xml.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\activity_display_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\layout_fragment_title.xml.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\layout\\fragment_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\navigation_calorie_calc_nav.xml.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\navigation\\calorie_calc_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-merged_res-56:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\ViezPC1\\.gradle\\daemon\\8.0\\com.example.smartscaleapp-main-58:\\drawable\\logo.png"
+    }
+]
